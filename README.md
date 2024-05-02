@@ -2,7 +2,7 @@
 
 ¡Hola! Soy Lucas, un apasionado desarrollador web, y este es mi porfolio. Acá encontrarás una recopilación de mis proyectos y trabajos destacados.
 
-[ ➡️ Visitá mi portfolio ](https://www.lucasrdz994.github.io/)
+[ ➡️ Visitá mi portfolio ](https://lucasrdz994.github.io/)
 
 [ ➡️ Encontrame en LinkedIn ](https://www.linkedin.com/in/lucas-damian-rodriguez/)
 
